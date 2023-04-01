@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd {
+    background-color:#ff9999;
+   
+}
+
+.big {
+    font-size: 24px;
+}
+
+#id1 {
+    color:#0000ff;
+    font-size:36px;
+}
+
+#id2{
+    background-color: #bbff99;
+    font-size: 24px;
+    font-weight: bold;
+}
